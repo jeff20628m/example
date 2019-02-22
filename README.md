@@ -12,3 +12,6 @@ This my firt try on Github to use Markdown
 ## Image 
 
 Here is my picture 
+
+![alt text](https://github.com/jeff20628m/example/blob/master/img/test1.jpg)
+
